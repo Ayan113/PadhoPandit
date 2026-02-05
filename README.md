@@ -67,7 +67,7 @@ Your personal career mentor from Day 1 to job offer:
 ## 🚀 Demo
 
 ### Live Application
-> **Coming Soon**: Deploy to Vercel/Netlify
+> **Live Demo**: [https://padhopandit.vercel.app](https://padhopandit.vercel.app)
 
 ### Screenshots
 
